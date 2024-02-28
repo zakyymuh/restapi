@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### CACHE ###
+src/main/java/com/reddot/restapi/cache
